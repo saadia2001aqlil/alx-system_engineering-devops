@@ -1,5 +1,4 @@
 #!/bin/bash
-
 echo "Best School" > '\*\\'"Best School"\'\\*$\?\*\*\*\*\*:) # write the text to the file
 echo "" >> '\*\\'"Best School"\'\\*$\?\*\*\*\*\*:) # add a new line to the file
 
