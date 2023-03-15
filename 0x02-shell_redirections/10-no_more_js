@@ -1,3 +1,8 @@
-#!/bin/bush
-find . -type "*.js" -delete
+#!/bin/bash
+
+# Find all regular files with .js extension and delete them
+find . -type f -name "*.js" -delete
+
+# Print a message indicating the completion of the script
+echo "All .js files have been deleted."
 
