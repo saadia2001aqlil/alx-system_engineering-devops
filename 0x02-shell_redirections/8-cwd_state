@@ -1,0 +1,3 @@
+#!/bin/bush
+ls -la > ls_cwd_content
+
